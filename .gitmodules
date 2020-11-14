@@ -1,0 +1,12 @@
+[submodule "platform-macos"]
+	path = platform-macos
+	url = ../platform-macos
+[submodule "storage-macos"]
+	path = storage-macos
+	url = ../storage-macos
+[submodule "third-macos"]
+	path = third-macos
+	url = ../third-macos
+[submodule "tool-macos"]
+	path = tool-macos
+	url = ../tool-macos
