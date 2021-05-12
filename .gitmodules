@@ -10,3 +10,9 @@
 [submodule "tool-macos"]
 	path = tool-macos
 	url = ../tool-macos
+[submodule "platform-posix"]
+	path = platform-posix
+	url = ../platform-posix
+[submodule "platform-apple"]
+	path = platform-apple
+	url = ../platform-apple
