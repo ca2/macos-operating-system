@@ -16,3 +16,6 @@
 [submodule "platform-apple"]
 	path = platform-apple
 	url = ../platform-apple
+[submodule "platform-ios"]
+	path = platform-ios
+	url = ../platform-ios
