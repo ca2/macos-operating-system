@@ -1,6 +1,6 @@
-[submodule "platform-macos"]
-	path = platform-macos
-	url = ../platform-macos
+[submodule "operating-system-macos"]
+	path = operating-system-macos
+	url = ../operating-system-macos
 [submodule "storage-macos"]
 	path = storage-macos
 	url = ../storage-macos
@@ -10,12 +10,12 @@
 [submodule "tool-macos"]
 	path = tool-macos
 	url = ../tool-macos
-[submodule "platform-posix"]
-	path = platform-posix
-	url = ../platform-posix
-[submodule "platform-apple"]
-	path = platform-apple
-	url = ../platform-apple
-[submodule "platform-ios"]
-	path = platform-ios
-	url = ../platform-ios
+[submodule "operating-system-posix"]
+	path = operating-system-posix
+	url = ../operating-system-posix
+[submodule "operating-system-apple"]
+	path = operating-system-apple
+	url = ../operating-system-apple
+[submodule "operating-system-ios"]
+	path = operating-system-ios
+	url = ../operating-system-ios
