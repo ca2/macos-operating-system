@@ -19,3 +19,9 @@
 [submodule "operating-system-ios"]
 	path = operating-system-ios
 	url = ../operating-system-ios
+[submodule "third-ios"]
+	path = third-ios
+	url = ../third-ios
+[submodule "storage-ios"]
+	path = storage-ios
+	url = ../storage-ios
