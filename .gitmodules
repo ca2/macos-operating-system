@@ -25,3 +25,6 @@
 [submodule "storage-ios"]
 	path = storage-ios
 	url = ../storage-ios
+[submodule "operating-system-darwin"]
+	path = operating-system-darwin
+	url = ../operating-system-darwin
