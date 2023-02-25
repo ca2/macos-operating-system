@@ -1,12 +1,6 @@
 [submodule "operating-system-macos"]
 	path = operating-system-macos
 	url = ../operating-system-macos
-[submodule "storage-macos"]
-	path = storage-macos
-	url = ../storage-macos
-[submodule "third-macos"]
-	path = third-macos
-	url = ../third-macos
 [submodule "tool-macos"]
 	path = tool-macos
 	url = ../tool-macos
@@ -19,12 +13,6 @@
 [submodule "operating-system-ios"]
 	path = operating-system-ios
 	url = ../operating-system-ios
-[submodule "third-ios"]
-	path = third-ios
-	url = ../third-ios
-[submodule "storage-ios"]
-	path = storage-ios
-	url = ../storage-ios
 [submodule "operating-system-darwin"]
 	path = operating-system-darwin
 	url = ../operating-system-darwin
