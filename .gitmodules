@@ -25,3 +25,6 @@
 [submodule "operating_system-ios"]
 	path = operating_system-ios
 	url = ../operating_system-ios
+[submodule "operating_system-macos"]
+	path = operating_system-macos
+	url = ../operating_system-macos
