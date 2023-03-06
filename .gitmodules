@@ -28,3 +28,6 @@
 [submodule "operating_system-macos"]
 	path = operating_system-macos
 	url = ../operating_system-macos
+[submodule "operating_system-posix"]
+	path = operating_system-posix
+	url = ../operating_system-posix
