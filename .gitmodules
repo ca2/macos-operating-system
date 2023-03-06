@@ -16,3 +16,6 @@
 [submodule "operating-system-darwin"]
 	path = operating-system-darwin
 	url = ../operating-system-darwin
+[submodule "operating_system-apple"]
+	path = operating_system-apple
+	url = ../operating_system-apple
